@@ -1,9 +1,7 @@
 {
-	"folders": [
-		{
-			"name": "YouTube-Clone",
-			"path": "."
-		}
-	],
-	"settings": {}
+    "folders": [
+        {
+            "path": "../../.."
+        }
+    ]
 }
